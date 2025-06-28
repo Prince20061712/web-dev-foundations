@@ -1,7 +1,7 @@
 # web-dev-foundations
 # CatPhotoApp  
 
-![CatPhotoApp Screenshot] [Screenshot 2025-06-28 100534](https://github.com/user-attachments/assets/7c8df7c3-44b8-4738-98bc-6966593b8fe4)
+![CatPhotoApp Screenshot]![Screenshot 2025-06-28 100534](https://github.com/user-attachments/assets/7c8df7c3-44b8-4738-98bc-6966593b8fe4)
 
 FreeCodeCamp HTML project from the Responsive Web Design certification.  
 
